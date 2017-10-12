@@ -1,4 +1,4 @@
-# Money and Banking Group Project
+# Money and Banking Group Project (EC4332)
 
 1. Analysis on Credit, Leverage and Liquidity
 
